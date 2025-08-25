@@ -1,0 +1,6 @@
+[2025-05-30 16:40:18] INFO: GLEW initialized successfully
+[2025-05-30 16:40:18] INFO: OpenGL Vendor: NVIDIA Corporation
+[2025-05-30 16:40:18] INFO: OpenGL Renderer: NVIDIA GeForce RTX 5080/PCIe/SSE2
+[2025-05-30 16:40:18] INFO: OpenGL Version: 4.6.0 NVIDIA 572.16
+[2025-05-30 16:40:18] INFO: OpenGL Shading Language Version: 4.60 NVIDIA
+[2025-05-30 16:40:18] INFO: Application GLFW OpenGL window : ShaderCON : created.
